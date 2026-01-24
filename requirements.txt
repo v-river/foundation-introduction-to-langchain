@@ -1,0 +1,8 @@
+ipykernel==7.1.0
+ipywidgets==8.1.8
+langchain==1.2.7
+langchain-openai==1.1.7
+python-dotenv==1.2.1
+scipy==1.17.0
+sounddevice==0.5.5
+tavily-python==0.7.19
